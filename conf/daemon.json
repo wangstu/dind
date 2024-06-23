@@ -1,0 +1,7 @@
+{
+  "userns-remap": "default",
+  "no-new-privileges": true,
+  "iptables": true,
+  "data-root": "/var/lib/docker",
+  "containerd": "/run/containerd/containerd.sock"
+}
